@@ -250,6 +250,10 @@ strong {
   transform: translateY(0px);
 }
 
+.custom-opacity {
+  opacity: .65;
+}
+
 .navbar-nav .nav-link {
   color: var(--p-color);
   font-size: 18px;
