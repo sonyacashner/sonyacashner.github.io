@@ -222,8 +222,12 @@ strong {
 .logo {
   pointer-events: none;
   user-select: none;
-  width: 8%;
-  height: 8%;
+  width: 10%;
+  height: 10%;
+}
+
+.image-border {
+  border: 5px solid rgb(179, 125, 59);
 }
 
 .navbar-brand {
